@@ -1,4 +1,4 @@
-# Employee Workforce Analysis | Excel
+# 👥 Employee Workforce Analysis | Excel
 
 Rather than viewing employee records as individual data points, I approached the workforce data through key HR business questions:
 
@@ -9,20 +9,21 @@ Rather than viewing employee records as individual data points, I approached the
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project analyzes employee workforce data from **2018 to 2023**.
+
 The analysis focuses on understanding workforce structure, employee retention, termination patterns, demographics, and hiring trends to identify areas where HR teams can understand major workforce challenges.
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Employee Workforce Dashboard](Images/04_Dashboard.png)
 
 ---
 
-# Analysis
+# 🔍 Analysis
 
-## 1. Workforce Overview
+## 1. 👥 Workforce Overview
 
 ### Questions Analyzed
 - What is the current workforce size?
@@ -30,7 +31,7 @@ The analysis focuses on understanding workforce structure, employee retention, t
 - What is the gender distribution?
 - How many employees joined in the latest year?
 
-### Findings
+### Key Findings
 
 - The dataset contains **2,845 employees**, including:
   - **2,458 active employees**
@@ -44,13 +45,13 @@ The analysis focuses on understanding workforce structure, employee retention, t
 
 ---
 
-## 2. Employee Distribution by Age
+## 2. 🎂 Employee Distribution by Age
 
 ### Questions Analyzed
 - How is the workforce distributed across age groups?
 - Which age segments represent the largest employee groups?
 
-### Findings
+### Key Findings
 
 The largest employee groups are:
 
@@ -64,7 +65,7 @@ Employees above 77 represent the smallest group with:
 
 ---
 
-## 3. Employee Turnover Analysis
+## 3. 🔄 Employee Turnover Analysis
 
 ### Questions Analyzed
 
@@ -72,7 +73,7 @@ Employees above 77 represent the smallest group with:
 - Are termination patterns different across genders?
 - Which age groups have higher termination counts?
 
-### Findings
+### Key Findings
 
 - The **Production department experienced the highest number of terminated employees**, significantly higher than other departments.
 
@@ -86,14 +87,14 @@ The termination patterns highlight departments and workforce segments that may r
 
 ---
 
-## 4. Hiring Trend Analysis
+## 4. 📈 Hiring Trend Analysis
 
 ### Questions Analyzed
 
 - How has employee hiring changed over time?
 - Are there periods of significant workforce growth?
 
-### Findings
+### Key Findings
 
 Employee hiring increased significantly after 2018:
 
@@ -105,13 +106,13 @@ Hiring peaked in **2022 with 594 new employees**.
 
 ---
 
-## 5. Workforce Distribution by Pay Zone
+## 5. 💰 Workforce Distribution by Pay Zone
 
 ### Questions Analyzed
 
 - How is the workforce distributed across different pay zones?
 
-### Findings
+### Key Findings
 
 - Zone A has the highest number of employees:
   - **1,013 employees**
@@ -123,7 +124,7 @@ Hiring peaked in **2022 with 594 new employees**.
 
 ---
 
-# Dashboard
+# 📊 Dashboard
 
 This dashboard provides an overview of:
 
@@ -135,13 +136,13 @@ This dashboard provides an overview of:
 
 ---
 
-# Tools
+# 🛠️ Tools
 
 - Microsoft Excel
 
 ---
 
-# Skills Applied
+# 🎯 Skills Applied
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -153,7 +154,7 @@ This dashboard provides an overview of:
 
 ---
 
+# 🤝 Let's Connect
 
-### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](ayeshabatool160@gmail.com)
+- [Email](mailto:ayeshabatool160@gmail.com)
