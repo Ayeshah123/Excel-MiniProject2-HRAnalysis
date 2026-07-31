@@ -11,8 +11,8 @@ Rather than viewing employee records as individual data points, I approached the
 
 ## Overview
 
-This project analyzes employee workforce data from **2018 to 2023** using Microsoft Excel.
-The analysis focuses on understanding workforce structure, employee retention, termination patterns, demographics, and hiring trends to identify areas where HR teams can investigate workforce challenges and improve employee management strategies.
+This project analyzes employee workforce data from **2018 to 2023**.
+The analysis focuses on understanding workforce structure, employee retention, termination patterns, demographics, and hiring trends to identify areas where HR teams can understand major workforce challenges.
 
 ## Dashboard Preview
 
