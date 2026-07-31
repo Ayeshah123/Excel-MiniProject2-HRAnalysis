@@ -125,7 +125,7 @@ Hiring peaked in **2022 with 594 new employees**.
 
 # Dashboard
 
-The interactive Excel dashboard provides an overview of:
+This dashboard provides an overview of:
 
 - Workforce KPIs
 - Employee demographics
