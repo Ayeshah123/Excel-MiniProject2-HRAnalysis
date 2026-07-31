@@ -16,7 +16,7 @@ The analysis focuses on understanding workforce structure, employee retention, t
 
 ## Dashboard Preview
 
-![Employee Workforce Dashboard](images/04_Dashboard.png)
+![Employee Workforce Dashboard](Images/04_Dashboard.png)
 
 ---
 
